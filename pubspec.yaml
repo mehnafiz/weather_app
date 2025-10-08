@@ -1,0 +1,47 @@
+name: weather_app
+description: "Weather App"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  http: ^1.5.0
+  provider: ^6.1.5+1
+  lottie: ^3.3.2
+  intl: ^0.20.2
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/rain.json
+    - assets/cloudy.json
+    - assets/sunny.json
+    - assets/snowfall.json
+
+
+
