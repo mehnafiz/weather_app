@@ -42,6 +42,7 @@ flutter:
     - assets/cloudy.json
     - assets/sunny.json
     - assets/snowfall.json
+    - assets/splash_logo.webp
 
 
 
