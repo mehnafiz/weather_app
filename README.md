@@ -4,7 +4,7 @@ A beautiful and responsive cross-platform Weather App built with Flutter that wo
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.35.5-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.9.2-blue)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+[Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green)
 
 ## 📱 App Preview
 
